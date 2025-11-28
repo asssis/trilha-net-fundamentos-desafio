@@ -1,0 +1,11 @@
+{
+  "PrecoInicial": 2,
+  "PrecoPorHora": 2,
+  "Veiculos": [
+    {
+      "Placa": "SSS1111",
+      "Entrada": "2025-11-27T21:08:15.0852297-04:00"
+    }
+  ],
+  "Historico": []
+}
